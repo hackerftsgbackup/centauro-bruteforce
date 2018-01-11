@@ -1,4 +1,4 @@
-# centauro-bruteforce:
+# centauro-bruteforce (read this file):
 script for bruteforce centauro store
 
 # created on:
